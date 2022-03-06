@@ -1,6 +1,6 @@
 # profile
 
-后端工程师一枚,二次元宅,兴趣有那么一丢丢广吧
+后端工程师一枚,二次元宅
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tearsforyears&layout=compact&hide=html,Tex,Jupyter Notebook,scss,vue,css&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
